@@ -68,7 +68,7 @@
       <recent name="$PROJECT_DIR$/app/src/main/java/com/example/myapplication" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppKt">
+  <component name="RunManager" selected="Application.AppsKt">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -134,7 +134,20 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.Belajar_DesignPattern_09_Prototype.AppKt" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.Belajar_DesignPattern_10_Bridge.AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.Belajar_DesignPattern_11_Composite.AppsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,7 +173,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.Belajar_DesignPattern_07_Template_Method_Pattern.TemplateAppKt" />
+      <option name="MAIN_CLASS_NAME" value="com.example.myapplication.Belajar_DesignPattern_07_Template_Method.TemplateAppKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,10 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppsKt" />
+        <item itemvalue="Application.AppKt" />
         <item itemvalue="Application.AppKt" />
         <item itemvalue="Application.AppKt" />
         <item itemvalue="Application.TemplateAppKt" />
-        <item itemvalue="Application.SIngletonAppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -203,10 +217,10 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="272" width="455" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1608822232021">
+    <state x="768" y="272" width="455" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1608836713226">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="768" y="272" width="455" height="568" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1608822232021" />
+    <state x="768" y="272" width="455" height="568" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1608836713226" />
     <state x="626" y="65" width="821" height="977" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1608813126594">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -223,22 +237,22 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="779" y="311" width="424" height="490" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1608829593709" />
-    <state width="1802" height="507" key="GridCell.Tab.0.bottom" timestamp="1608830184928">
+    <state width="1802" height="507" key="GridCell.Tab.0.bottom" timestamp="1608838146827">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="507" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1608830184928" />
-    <state width="1802" height="507" key="GridCell.Tab.0.center" timestamp="1608830184926">
+    <state width="1802" height="507" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1608838146827" />
+    <state width="1802" height="507" key="GridCell.Tab.0.center" timestamp="1608838146827">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="507" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1608830184926" />
-    <state width="1802" height="507" key="GridCell.Tab.0.left" timestamp="1608830184925">
+    <state width="1802" height="507" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1608838146827" />
+    <state width="1802" height="507" key="GridCell.Tab.0.left" timestamp="1608838146826">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="507" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1608830184925" />
-    <state width="1802" height="507" key="GridCell.Tab.0.right" timestamp="1608830184927">
+    <state width="1802" height="507" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1608838146826" />
+    <state width="1802" height="507" key="GridCell.Tab.0.right" timestamp="1608838146827">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1802" height="507" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1608830184927" />
+    <state width="1802" height="507" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1608838146827" />
     <state x="485" y="188" width="1022" height="736" key="SettingsEditor" timestamp="1608831972201">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -251,5 +265,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="650" y="381" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608831816833" />
+    <state x="740" y="193" width="501" height="727" key="refactoring.ChangeSignatureDialog" timestamp="1608838208870">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="740" y="193" width="501" height="727" key="refactoring.ChangeSignatureDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608838208870" />
   </component>
 </project>

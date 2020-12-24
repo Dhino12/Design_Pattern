@@ -1,4 +1,4 @@
-package com.example.myapplication.Belajar_DesignPattern_06_Observer_Pattern
+package com.example.myapplication.Belajar_DesignPattern_06_Observer
 
 import android.content.BroadcastReceiver
 import android.content.Context

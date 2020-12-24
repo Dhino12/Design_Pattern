@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Belajar_DesignPattern_06_Observer_Pattern.activityLive.MainActivity"
+    tools:context=".Belajar_DesignPattern_06_Observer.activityLive.MainActivity"
     android:orientation="vertical">
 
     <TextView

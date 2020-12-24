@@ -13,10 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".Belajar_DesignPattern_06_Observer_Pattern.activityLive.MainActivity" />
+        <activity android:name=".Belajar_DesignPattern_06_Observer.activityLive.MainActivity" />
 
         <receiver
-            android:name=".Belajar_DesignPattern_06_Observer_Pattern.SmsReceiver"
+            android:name=".Belajar_DesignPattern_06_Observer.SmsReceiver"
             android:enabled="true"
             android:exported="true">
             <intent-filter>

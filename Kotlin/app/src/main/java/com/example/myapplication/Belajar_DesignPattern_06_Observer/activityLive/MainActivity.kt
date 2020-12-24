@@ -1,4 +1,4 @@
-package com.example.myapplication.Belajar_DesignPattern_06_Observer_Pattern.activityLive
+package com.example.myapplication.Belajar_DesignPattern_06_Observer.activityLive
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
